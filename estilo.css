@@ -1,0 +1,110 @@
+a {
+    color: antiquewhite;
+}
+#menu {
+    background-color: darksalmon;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+.titulo {
+        font-family: "Just Another Hand", cursive;
+        font-weight: 400;
+        font-style: normal;    
+        text-align: right;  
+        position: absolute;
+        top: 50%;
+        left: 70%;
+        font-size: 100px;
+        z-index: 1;
+        color: darksalmon;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu ul li {
+    display: inline-block;
+}
+
+#home {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    }
+
+.imagem1 {
+    width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+}
+#sobremim {
+width: 100%;
+height: 121vh;
+background-color: black;
+color: white;
+}
+
+.imagem2 {
+    width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+}
+
+#projetos {
+    width: 100%;
+    height: 100vh;
+    background-color: darkslategrey;
+}
+
+.imagem3 { 
+    width: 100%;
+    height: 100vh;
+    opacity: 0.8;
+}
+
+
+#fotosstill {
+    width: 100%;
+    height: 100vh;
+    background-color: forestgreen;
+}
+
+.imagem4 { 
+    width: 100%;
+    height: 25vh;
+}
+
+.imagem5 { 
+    width: 100%;
+    height: 25vh;
+}
+
+.imagem6 { 
+    width: 100%;
+    height: 25vh;
+}
+
+.imagem7 { 
+    width: 100%;
+    height: 25vh;
+}
+
+.imagem8 { 
+    width: 100%;
+    height: 25vh;
+}
+
+.imagem9 { 
+    width: 100%;
+    height: 25vh;
+}
+
+
+#contato {
+    width: 100%;
+    height: 100vh;
+    background-color: lightgreen;
+}
